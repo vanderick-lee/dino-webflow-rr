@@ -1,7 +1,7 @@
-import Player from "./Player.js";
-import Ground from "./Ground.js";
-import CactiController from "./CactiController.js";
-import Score from "./Score.js";
+import Player from "https://cdn.jsdelivr.net/gh/vanderick-lee/dino-webflow-rr@main/js/Player.js";
+import Ground from "https://cdn.jsdelivr.net/gh/vanderick-lee/dino-webflow-rr@main/js/Ground.js";
+import CactiController from "https://cdn.jsdelivr.net/gh/vanderick-lee/dino-webflow-rr@main/js/CactiController.js";
+import Score from "https://cdn.jsdelivr.net/gh/vanderick-lee/dino-webflow-rr@main/js/Score.js";
 
 const canvas = document.getElementById("game");
 
