@@ -11,7 +11,7 @@ export default class Ground {
     this.y = this.canvas.height - this.height;
 
     this.groundImage = new Image();
-    this.groundImage.src = "assets/test-road.jpg";
+    this.groundImage.src = "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a795baeb2d3c2b3dd7_land.png";
   }
 
   update(gameSpeed, frameTimeDelta) {
