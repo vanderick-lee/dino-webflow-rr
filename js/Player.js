@@ -23,14 +23,14 @@ export default class Player {
     this.yStandingPosition = this.y;
 
     this.standingStillImage = new Image();
-    this.standingStillImage.src = "assets/jump.png";
+    this.standingStillImage.src = "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a818d503a72db74ee7_jump.png";
     this.image = this.standingStillImage;
 
     const dinoRunImage1 = new Image();
-    dinoRunImage1.src = "assets/walk1.png";
+    dinoRunImage1.src = "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a855deb0f9ee693308_walk1.png";
 
     const dinoRunImage2 = new Image();
-    dinoRunImage2.src = "assets/walk2.png";
+    dinoRunImage2.src = "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a74d4dfa2f63526018_stand.png";
 
     this.dinoRunImages.push(dinoRunImage1);
     this.dinoRunImages.push(dinoRunImage2);
