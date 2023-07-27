@@ -21,9 +21,9 @@ const GROUND_HEIGHT = 200;
 const GROUND_AND_CACTUS_SPEED = 0.4;
 
 const CACTI_CONFIG = [
-  { width: 68 / 1.5, height: 70 / 1.5, image: "assets/obs1.png" },
-  { width: 98 / 1.5, height: 100 / 1.5, image: "assets/obs2.png" },
-  { width: 68 / 1.5, height: 70 / 1.5, image: "assets/obs1.png" },
+  { width: 68 / 1.5, height: 70 / 1.5, image: "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a76eead0e3dbbb1cab_obs1.png" },
+  { width: 98 / 1.5, height: 100 / 1.5, image: "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a78410f2f3de3af104_obs2.png" },
+  { width: 68 / 1.5, height: 70 / 1.5, image: "https://uploads-ssl.webflow.com/6476be0f5d58a4ab099e8501/64c230a76eead0e3dbbb1cab_obs1.png" },
 ];
 
 //Game Objects
