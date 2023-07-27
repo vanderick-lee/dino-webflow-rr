@@ -1,4 +1,4 @@
-import Cactus from "./Cactus.js";
+import Cactus from "https://cdn.jsdelivr.net/gh/vanderick-lee/dino-webflow-rr@main/js/Cactus.js";
 
 export default class CactiController {
   CACTUS_INTERVAL_MIN = 500;
